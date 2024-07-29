@@ -12,6 +12,13 @@ body {
 .dflex {
     display: flex;
 }
+.border {
+    border: 2px solid tomato;
+}
+
+.border1 {
+    border: 2px solid rgb(35, 4, 211);
+}
 .inter-font {
     font-family: "Inter", sans-serif;
 }
@@ -55,10 +62,6 @@ body {
 ul>li {
     list-style: none;
 }
-ul>li {
-    list-style: none;
-}
-
 /* Nav-bar styles */
 .bg-banner {
     background: linear-gradient(0.00deg, rgb(17, 17, 17), rgba(119, 119, 119, 0) 100%);
@@ -73,6 +76,9 @@ ul>li {
     align-items: center;
     padding: 5px;
 
+}
+.menu-bar{
+    display: none;
 }
 
 .nav-link {
