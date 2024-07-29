@@ -9,4 +9,30 @@
      
         justify-content: space-around;
     }
+
+.banner{
+    flex-direction: column;
+}
+.banner-des{
+    margin-top: 0px;
+    text-align: center;
+    padding: 10px;
+}
+.banner-img{
+    margin-left: 150px;
+    
+
+}
+
+.workout-videos {
+    top: 40px;
+    right: -30px;
+}
+.video-tutorial {
+    margin-top: 0px;
+    bottom: 240px;
+    left: -30px;
+}
+
+
 }
