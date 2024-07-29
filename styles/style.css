@@ -199,3 +199,25 @@ ul>li {
     height: 50px;
     cursor: pointer;
 }
+
+
+/* habit section styles */
+.habit-des{
+    max-width: 670px;
+    margin: 0 auto;
+}
+.heading1{
+    margin-bottom: 0px;
+}
+.habit-img {
+    border: 5px solid rgb(34, 34, 34);
+    border-radius: 200px;
+}
+.habit-target{
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+.mtpw{
+    font-size: 1.1rem;
+    margin-bottom: 0px;
+}

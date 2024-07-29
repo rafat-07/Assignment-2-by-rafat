@@ -34,5 +34,14 @@
     left: -30px;
 }
 
+.habit-des{
+    margin-top: 0px;
+    text-align: center;
+    margin: 40px;
+    /* padding: 10px; */
+}
+.habit-target{
+    flex-direction: column;
+}
 
 }
