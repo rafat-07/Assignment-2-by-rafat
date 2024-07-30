@@ -19,7 +19,7 @@
     padding: 10px;
 }
 .banner-img{
-    margin-left: 150px;
+    margin-left: 80px;
     
 
 }
@@ -38,10 +38,42 @@
     margin-top: 0px;
     text-align: center;
     margin: 40px;
-    /* padding: 10px; */
 }
 .habit-target{
     flex-direction: column;
+    margin-bottom: 40px;
+}
+.section-2{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 430px;
+    margin-top: 20px;
+}
+.run-sec {
+    width: 350px;
+}
+.heading2{
+    margin-top: 20px;
+}
+.jn-btn{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.run-img{
+    margin: 10px;
+}
+
+.bmi-calc{
+    flex-direction: column;
+    height: 600px;
+}
+.bmi-chart {
+    margin-left: 80px;
+}
+.bmi-input-sec{
+    margin: 10px auto;
 }
 
 }

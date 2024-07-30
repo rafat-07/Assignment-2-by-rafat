@@ -221,3 +221,87 @@ ul>li {
     font-size: 1.1rem;
     margin-bottom: 0px;
 }
+
+/* Run Section Styles */
+.section-2 {
+    border-radius: 10px;
+    text-align: left;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.heading2{  
+    margin-top: 0px;  
+    margin-bottom: 0px;
+}
+
+.run-sec {
+    width: 445px;
+    padding-left: 40px;
+}
+.jn-btn{
+    margin-top: 30px;
+}
+.run-img {
+    background: url(../images/run.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 280px;
+    border-radius: 10px;
+    margin: 50px 50px 25px 0px;
+}
+
+/* BMI section styles */
+.bmi-sec{
+    position: relative;
+}
+.bmi-calc{
+    height: 340px;
+}
+.heading3{
+    margin-bottom: 0px;
+}
+.bmi-heading {
+    max-width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+.bmi-chart {
+    max-width: 300px;
+    margin-left: 105px;
+}
+.chart-heading {
+    text-align: center;
+}
+.chart-list {
+    display: grid;
+    grid-template-columns: repeat(2, 150px);
+}
+.chart-list>li {
+    padding: 10px;
+    border: 1px solid gainsboro;
+}
+/* BMI Input section styles */
+.bmi-input-sec {
+    max-width: 500px;
+    margin-left: 305px;
+    
+}
+.bmi-input-field {
+    display: grid;
+    grid-template-columns: repeat(2, 250px);
+}
+/* input{
+    border-top: 0px;
+    border-left: 0px;
+} */
+.input-box {
+    color: rgba(255, 255, 255, 0.6);
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+    background:rgba(255, 255, 255, 0.1);
+    margin: 5px;
+    padding-left: 20px;
+}
