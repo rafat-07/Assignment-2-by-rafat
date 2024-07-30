@@ -365,3 +365,57 @@ width: 490px;
 .trainer{
     padding-left: 10px;
 }
+
+
+/* footer styles */
+
+.footer-des {
+    width: 450px;
+    text-align: left;
+}
+.brand-title-footer {
+    font-style: italic;
+    color: rgb(230, 83, 60);
+    font-size: 4.4rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+ }
+ .brand-p{
+    margin-top: 0px;
+ }
+.site-footer {
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.footer-line,
+.copyright {
+    max-width: 1059px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.copyright {
+    padding: 20px;
+}
+
+.gs {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.footer-gs {
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px;
+    margin-top: 0px;
+}
+.footer-gs>li {
+    padding-bottom: 10px;
+}
+

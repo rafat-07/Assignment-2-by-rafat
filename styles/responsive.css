@@ -80,5 +80,19 @@
     justify-content: center;
     max-width: 430px;
 }
-
+.site-footer{
+    flex-direction: column;
+    text-align: left;
+    margin-left: 30px;
+}
+.gs{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.footer-gs{
+    padding: 0px;
+}
+.footer-line{
+    max-width: 500px;
+}
 }
