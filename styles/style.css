@@ -12,13 +12,6 @@ body {
 .dflex {
     display: flex;
 }
-.border {
-    border: 2px solid tomato;
-}
-
-.border1 {
-    border: 2px solid rgb(35, 4, 211);
-}
 .inter-font {
     font-family: "Inter", sans-serif;
 }
@@ -292,10 +285,7 @@ ul>li {
     display: grid;
     grid-template-columns: repeat(2, 250px);
 }
-/* input{
-    border-top: 0px;
-    border-left: 0px;
-} */
+
 .input-box {
     color: rgba(255, 255, 255, 0.6);
     border: none;
@@ -417,5 +407,8 @@ width: 490px;
 }
 .footer-gs>li {
     padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
 }
 
