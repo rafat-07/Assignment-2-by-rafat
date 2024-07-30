@@ -305,3 +305,63 @@ ul>li {
     margin: 5px;
     padding-left: 20px;
 }
+.input-box:nth-child(5) {
+width: 490px;
+}
+
+
+/* meet team sec styles */
+
+.meet-team {
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.heading4{
+    margin-bottom: 0px;
+}
+.team-members {
+    border-radius: 18px;
+    padding: 20px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.member1{
+    background: url(../images/trainer1.png);
+}
+.member2{
+    background: url(../images/trainer2.png);
+}
+.member3{
+    background: url(../images/trainer3.png);
+}
+.member4{
+    background: url(../images/trainer4.png);
+}
+.member5{
+    background: url(../images/trainer5.png);
+}
+.member6{
+    background: url(../images/trainer6.png);
+}
+.member1,
+.member2,
+.member3,
+.member4,
+.member5,
+.member6 {
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    border-radius: 18px;
+    height: 275px;
+    text-align: left;
+    align-items: end; 
+    
+}
+
+.trainer{
+    padding-left: 10px;
+}

@@ -75,5 +75,10 @@
 .bmi-input-sec{
     margin: 10px auto;
 }
+.team-members{
+    grid-template-columns: repeat(1, 350px);
+    justify-content: center;
+    max-width: 430px;
+}
 
 }
