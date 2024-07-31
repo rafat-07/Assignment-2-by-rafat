@@ -25,7 +25,7 @@ body {
 .brand-title {
     font-style: italic;
     color: rgb(230, 83, 60);
-    font-size: 2.1rem;
+    font-size: 2.3rem;
 }
 
 .cmn-btn {
@@ -62,8 +62,8 @@ ul>li {
 
 .nav-links {
     border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 39px;
-    width: 380px;
+    border-radius: 39px;   
+    width: 410px;
     height: 40px;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +78,7 @@ ul>li {
     text-decoration: none;
     padding: 10px;
     color: rgb(255, 255, 255);
-    font-size: 15px;
+    font-size: 1.1rem;
 
 }
 
@@ -89,7 +89,7 @@ ul>li {
 .home-nav {
     border-radius: 40px;
     background: rgb(230, 83, 60);
-
+    font-weight: 600;
 }
 
 .navbar,
@@ -296,9 +296,13 @@ ul>li {
     padding-left: 20px;
 }
 .input-box:nth-child(5) {
-width: 490px;
+    grid-column: span 2;
 }
-
+select option{
+    background: rgb(34, 34, 34);
+    color: #fff;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
 
 /* meet team sec styles */
 
