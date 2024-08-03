@@ -129,17 +129,15 @@ ul>li {
 
 .banner-des {
     margin-top: 5.6%;
-    /* margin-top: 60px; */
-    max-width: 520px;
+    max-width: 450px;
     height: 42%;
-    /* height: 445px; */
     text-align: left;
     padding: 10px;
 }
-
 .banner-title {
     font-size: 4rem;
     font-weight: 900;
+    margin-top: 5px;
     margin-bottom: 0px;
 }
 
@@ -163,9 +161,7 @@ ul>li {
 .workout-videos {
     text-align: left;
     padding-left: 5.5%;
-    /* padding-left: 20px; */
     width: 52%;
-    /* width: 170px; */
     height: 15%;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 12px;
@@ -178,7 +174,6 @@ ul>li {
 
 .video-tutorial {
     width: 58.6%;
-    /* width: 205px; */
     height: 16%;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 12px;
@@ -217,8 +212,6 @@ ul>li {
     background: none;
     width: 49.6%;
     height: 50px;
-    /* width: 220px;
-    height: 50px; */
     cursor: pointer;
 }
 
@@ -264,7 +257,6 @@ ul>li {
 
 .run-sec {
     width: 42%;
-    /* width: 445px; */
     padding-left: 40px;
     padding-bottom: 20px;
 }
@@ -289,7 +281,6 @@ ul>li {
 }
 
 .bmi-calc {
-    /* height: 340px; */
     padding-bottom: 2%;
 }
 
@@ -306,7 +297,6 @@ ul>li {
 .bmi-chart {
     max-width: 300px;
     margin-left: 7.8%;
-    /* margin-left: 105px; */
 }
 
 .chart-heading {
@@ -327,7 +317,6 @@ ul>li {
 .bmi-input-sec {
     max-width: 500px;
     margin-left: 22.6%;
-    /* margin-left: 305px; */
 }
 
 .bmi-input-field {
@@ -425,7 +414,6 @@ select option {
 
 .footer-des {
     width: 40%;
-    /* width: 450px; */
     text-align: left;
 }
 
@@ -435,8 +423,6 @@ select option {
     font-size: 4.4rem;
     margin-top: 8%;
     margin-bottom: 0%;
-    /* margin-top: 30px;
-    margin-bottom: 10px; */
 }
 
 .brand-p {
@@ -446,7 +432,6 @@ select option {
 .site-footer {
     justify-content: space-between;
     margin-top: 5%;
-    /* margin-top: 80px; */
 }
 
 .footer-line,
@@ -464,7 +449,6 @@ select option {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 10%;
-    /* margin-bottom: 20px; */
     padding-bottom: 10px;
     text-align: left;
 }
