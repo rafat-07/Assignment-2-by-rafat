@@ -228,7 +228,7 @@ ul>li {
 
 .habit-img {
     border: 5px solid rgb(34, 34, 34);
-    border-radius: 200px;
+    border-radius: 50%;
 }
 
 .habit-target {
